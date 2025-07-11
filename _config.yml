@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://juliapenndorf.github.io/'
+url: 'https://juliapenndorf.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 'juliapenndorf.github.io'
 
 # Title of the Site
 title: Julia Penndorf
 # Description of the Site
-description: behavioural ecologist
+description: Behavioural ecologist
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -23,7 +23,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: julia.penndorf@gmail.com
-facebook_username: 
+bsky_username: julia-penndorf.bsky.social‬
 twitter_username: 
 instagram_username: 
 linkedin_username: 
