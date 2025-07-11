@@ -12,7 +12,7 @@ layout: page
 * **Penndorf, J.**, Ewart, K. M., Klump, B. C., Martin, J. M., & Aplin, L. M. (2023). Social network analysis reveals context‐dependent kin relationships in wild sulphur‐crested cockatoos Cacatua galerita. Journal of Animal Ecology, 92(1), 171-182. [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13839)
 
 ###2022
-* Dehnen, T., Papageorgiou, D., Nyaguthii, B., Cherono, W., **Penndorf, J.**, Boogert, N. J., & Farine, D. R. (2022). Costs dictate strategic investment in dominance interactions. Philosophical Transactions of the Royal Society B, 377(1845), 20200447. [link](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2020.0447](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0447))
+* Dehnen, T., Papageorgiou, D., Nyaguthii, B., Cherono, W., **Penndorf, J.**, Boogert, N. J., & Farine, D. R. (2022). Costs dictate strategic investment in dominance interactions. Philosophical Transactions of the Royal Society B, 377(1845), 20200447. [link](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0447)
 
 ###2020
 * **Penndorf, J.**, & Aplin, L. (2020). Environmental and life history factors, but not age, influence social learning about food: a meta-analysis. Animal Behaviour, 167, 161-176. [link](https://www.sciencedirect.com/science/article/pii/S0003347220301937?casa_token=SaKgKeZG74oAAAAA:5YQNFF960TADyMfcIrnEQFiHUDb6eIZI0KVHQyJv7_5_PI8eMXFk7rheRkWrgLErW9gVGQQWXyA)
