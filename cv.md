@@ -2,8 +2,7 @@
 title: CV
 layout: page
 ---
-<div class="hero-body">
-        <div class="container">
+<div style="display: inline-block;text-align:left;">
           
  ### Employment
 <ins>**2023-present:**</ins> Postdoctoral researcher, Division of Ecology and Evolution, Research School of Biology and Medicine, The Australian National University<br>
@@ -14,5 +13,4 @@ layout: page
 <ins>**2018-2022:**</ins> Dr.rer.nat (magna cum laude), Max Planck Institute of Animal Behaviour & University of Konstanz, GER<br>
 <ins>**2016:**</ins> M.Sc. of Ecology and Ethology, University of Saint Etienne, FRA<br>
 <ins>**2014:**</ins> B.Sc. of Biology, University of Bordeaux, FRA<br>
-        </div>
 </div>
