@@ -4,8 +4,8 @@ layout: page
 ---
 
 #### Preprints
-<p align="left"><ins>**Penndorf, J.**</ins>, Farine, D., Martin, J., & Aplin, L. (2024). Long-term stability of dominance hierarchies in a wild parrot with fission-fusion dynamics. BioRxiv, 2024-05. [link](https://www.biorxiv.org/content/10.1101/2024.05.15.594429.abstract)</p>
-<p align="left"><ins>**Penndorf, J.**</ins>, Fontana, L., Martin, J. M., & Aplin, L. M. (2025). To preen or not to preen: social predictors of allopreening in a wild parrot. bioRxiv, 2025-06. [link](https://www.biorxiv.org/content/10.1101/2025.06.24.661407.abstract)</p>
+<p align="left"><ins><b>Penndorf, J.</b></ins>, Farine, D., Martin, J., & Aplin, L. (2024). Long-term stability of dominance hierarchies in a wild parrot with fission-fusion dynamics. BioRxiv, 2024-05. <br>
+<ins><b>Penndorf, J.</b></ins>, Fontana, L., Martin, J. M., & Aplin, L. M. (2025). To preen or not to preen: social predictors of allopreening in a wild parrot. bioRxiv, 2025-06.</p>
 
 
 #### 2025
