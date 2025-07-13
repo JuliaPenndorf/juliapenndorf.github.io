@@ -6,8 +6,8 @@ layout: page
 #### Preprints & submitted manuscripts
 <p align="left"><ins><b>Penndorf, J.</b></ins>, Farine, D., Martin, J., & Aplin, L. Long-term stability of dominance hierarchies in a wild parrot with fission-fusion dynamics. <i>BioRxiv</i>. <br><br>
 <ins><b>Penndorf, J.</b></ins>, Fontana, L., Martin, J. M., & Aplin, L. M. To preen or not to preen: social predictors of allopreening in a wild parrot. <i>bioRxiv</i>. <br><br>
-<ins><b>Penndorf, J.</b></ins>, Aplin, L. M., Farine, D. R. Evaluating the robustness of dominance hierarchies to methodological decisions when using randomised Elo-rating and Perc methods.<br><br>
-Fontana, L., Bolcato, S., <ins><b>Penndorf, J.</b></ins>, Aplin, L. M., Urbanization and social factors affecting innovation in sulphur‑crested cockatoos.<br><br>
+<ins><b>Penndorf, J.</b></ins>, Aplin, L. M., & Farine, D. R. Evaluating the robustness of dominance hierarchies to methodological decisions when using randomised Elo-rating and Perc methods.<br><br>
+Fontana, L., Bolcato, S., <ins><b>Penndorf, J.</b></ins>, & Aplin, L. M., Urbanization and social factors affecting innovation in sulphur‑crested cockatoos.<br><br>
 
 
 </p>
