@@ -4,7 +4,7 @@ layout: page
 ---
           
 #### Employment
-<p align="left"><ins><b>2023-present:</b></ins> Postdoctoral researcher, Division of Ecology and Evolution, Research School of Biology and Medicine, The Australian National University<br>
+<p align="left"><ins><b>2023-present:</b></ins> Postdoctoral researcher, Division of Ecology and Evolution, The Australian National University<br>
 <ins><b>2022-2023:</b></ins> Postdoctoral researcher, Max Planck Institute of Animal Behavior, GER<br>
 <ins><b>2017-2018:</b></ins> Volunteer Research Assistant, Inkawu Vervet Project, ZA 
 </p>
